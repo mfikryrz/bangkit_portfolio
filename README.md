@@ -1,8 +1,3 @@
-Berikut adalah versi baru dari `README.md` untuk repositori **bangkit\_portfolio**, dengan gaya penulisan profesional dan estetika yang rapi namun tetap informatif:
-
----
-
-```markdown
 # 🚀 Bangkit Academy Portfolio Projects
 
 Selamat datang di repositori *portfolio* saya selama mengikuti program **Bangkit Academy**! Repositori ini mencakup proyek-proyek lintas domain seperti **Natural Language Processing**, **Computer Vision**, **Time Series Forecasting**, dan **Recommendation System** yang disusun selama masa pembelajaran dan capstone.
@@ -68,5 +63,6 @@ Terbuka untuk diskusi, kolaborasi, atau review kode!
 Hubungi saya melalui:
 - GitHub Issues
 - Email (tertera di profil GitHub)
+- https://www.linkedin.com/in/muhfikry-rizal/
 
 ---
